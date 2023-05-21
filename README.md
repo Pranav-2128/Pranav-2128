@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-2128&show_icons=true&locale=en" alt="pranav-2128" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-2128&" alt="pranav-2128" /></p>
+
+## snake eating my graph
+![snake gif](https://github.com/Pranav-2128/Pranav-2128/blob/output/github-contribution-grid-snake.gif)
