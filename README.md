@@ -21,6 +21,6 @@
 
 <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-2128&show_icons=true&locale=en&layout=compact" alt="pranav-2128" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pranav-2128&show_icons=true&locale=en" alt="pranav-2128" /></p>
-
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pranav-2128&show_icons=true&locale=en" alt="pranav-2128" /></p>
+ -->
 ![snake gif](https://github.com/Pranav-2128/Pranav-2128/blob/output/github-contribution-grid-snake.gif)
