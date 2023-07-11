@@ -1,6 +1,6 @@
 ![logo](https://github.com/Pranav-2128/Pranav-2128/blob/main/Colorful%20Business%20Data%20General%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pranav Kopargaonkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align = "right" alt="coding" width="400" src = "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-2128&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-2128" /> </p>
